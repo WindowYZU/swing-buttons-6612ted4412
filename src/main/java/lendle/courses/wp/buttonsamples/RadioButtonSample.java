@@ -32,7 +32,7 @@ public class RadioButtonSample {
         frame.add(radio1);
         frame.add(radio2);
         //建立 ButtonGroup，把 radio1, radio2 加到 ButtonGroup
-        
+       
         ////////////////////////////////////////////////////
         
         frame.setDefaultCloseOperation(WindowConstants.DISPOSE_ON_CLOSE);
